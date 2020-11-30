@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Maria Ayala",
+      "label": "Wealth Management Advisor",
+      "picture": "https://app.monietalk.com/avatar/maria",
+      "email": "maria.ayala@tfaconnect.com",
+      "summary": "Maria Ayala’s mission is to help people reach their financial goals – this is what she is most passionate about. She has a degree in finance from DePaul University and prior experience in banking and corporate finance. She holds licenses in Life and Health, Series 6 and 63. Maria values transparent communication and takes a simple approach in educating her clients, while working hard to put her clients first.",
+      "location": {
+        "address": "1910 S. Highland Ave, Suite 103 Lombard, IL 60148 ",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "",
+          "url": ""
+        },
+        {
+          "network": "linkedin",
+          "username": "",
+          "url": ""
+        },
+        {
+          "network": "Facebook",
+          "username": "",
+          "url": ""
+        }
+      ],
+      "phone": "M: 1 (773) 263-0354 "
+    },
+    "work": [],
+    "volunteer": [],
+    "education": [],
+    "awards": [],
+    "publications": [],
+    "skills": [],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "success": true
+  }

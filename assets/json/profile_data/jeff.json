@@ -1,0 +1,50 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Jeff Levitan",
+      "label": "Business Leader, Entrepreneur, Author and Philanthropist",
+      "picture": "https://app.monietalk.com/avatar/Jeff",
+      "email": "therealjefflevitan@gmail.com",
+      "summary": "Jeff Levitan, recognized as a top leader in the Financial industry, started from humble beginnings in Chicago, Illinois. Now, he is the owner of a middle multi-million dollar company.<br/><br/>With more than 700 offices across the nation powered by over 20,000 insurance and financial service representatives, Mr.Levitan has built an organization that improves people's lives personally and financially.<br/><br/>Author of The Leadership Journey, Stop It, and The Tokens, Jeff empowers individuals to become a more successful version of themselves. He is an expert in goal setting and helping others overcome challenges to achieve fulfillment. <br/><br/>He speaks nationally to companies, business leaders, and entrepreneurs on peak performance, strategic planning, and maxing out their lives.<br/><br/>Jeff Levitan approaches philanthropy with equal passion. He is the founder of All for One, an international children's charity that improves the lives of underprivileged children in underdeveloped countries. Happily married and the father of five children, Jeff calls Atlanta, GA his home.",
+      "location": {
+        "address": "180 Roswell Street. ",
+        "postalCode": "30009",
+        "city": "Alpharetta",
+        "countryCode": "",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "JSLEVITAN",
+          "url": "https://twitter.com/JSLEVITAN"
+        },
+        {
+          "network": "linkedin",
+          "username": "",
+          "url": "https://www.linkedin.com/in/jeff-levitan-9509932/"
+        },
+        {
+          "network": "Facebook",
+          "username": "jeffrey.levitan.5",
+          "url": "https://www.facebook.com/jeffrey.levitan.5"
+        },
+        {
+          "network": "Instagram",
+          "username": "jeff.levitan",
+          "url": "https://www.instagram.com/jeff.levitan/"
+        }
+      ],
+      "phone": ""
+    },
+    "work": [],
+    "volunteer": [],
+    "education": [],
+    "awards": [],
+    "publications": [],
+    "skills": [],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "success": true
+  }

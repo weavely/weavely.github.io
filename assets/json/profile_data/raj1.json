@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Raj Srinivas",
+      "label": "CEO",
+      "picture": "https://app.monietalk.com/avatar/raj1",
+      "email": "raj@720ww.com",
+      "summary": "Raj Srinivas is a Chicago based entrepreneur and technology solutions expert who has held a number of IT senior management positions over the past two decades. <br/><br/>He is currently CEO of 720 Worldwide Inc, a leader in IT Consulting that provides integrated solutions for corporate giants such as Exelon, the US’s top competitive energy supplier, and Deloitte the global choice for risk and financial advisory services. <br/><br/>Prior to 720 Worldwide Raj was Cofounder and VP for Capstone Worldwide Inc where he was responsible for managing several multi-million-dollar projects. He came to Capstone from VIVA USA Inc where he served as Director of Client Enablement and provided IT solutions for a number of Fortune 500 companies.  <br/><br/>Before Viva he managed large-scale enterprise projects for corporate giants such as DaimlerChrysler and Kmart.",
+      "location": {
+        "address": "79 W Monroe St., 1010 ",
+        "postalCode": "60603",
+        "city": "Chicago",
+        "countryCode": "",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "",
+          "url": ""
+        },
+        {
+          "network": "linkedin",
+          "username": "",
+          "url": ""
+        },
+        {
+          "network": "Facebook",
+          "username": "",
+          "url": ""
+        }
+      ],
+      "phone": "+1(248)980-3696"
+    },
+    "work": [],
+    "volunteer": [],
+    "education": [],
+    "awards": [],
+    "publications": [],
+    "skills": [],
+    "languages": [],
+    "interests": [],
+    "references": [],
+    "success": true
+  }
