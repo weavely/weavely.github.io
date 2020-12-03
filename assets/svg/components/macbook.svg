@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 827 539" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-86.3715,4.42846)">
+        <g transform="matrix(1,0,0,0.961219,0,0.0193906)">
+            <path d="M881.3,550.323L117.5,550.323C103.1,550.323 91.3,539.079 91.3,524.679L91.3,26.7C91.3,12.3 103.1,0.5 117.5,0.5L881.4,0.5C895.8,0.5 907.6,12.3 907.6,26.7L907.6,524.779C907.5,539.079 895.7,550.323 881.3,550.323Z" style="fill:white;fill-rule:nonzero;stroke:rgb(231,234,243);stroke-width:1px;"/>
+        </g>
+        <circle cx="498" cy="23.8" r="3" style="fill:rgb(247,247,247);"/>
+        <g id="macbookID2" transform="matrix(1.0287,0,0,1.02214,-12.7933,-14.1414)">
+            <rect x="121.7" y="38" width="752.5" height="469.7" style="fill:none;stroke:rgb(231,234,243);stroke-width:1px;"/>
+        </g>
+    </g>
+</svg>
